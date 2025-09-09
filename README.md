@@ -1,5 +1,21 @@
-# Self Introduction
-My name is *Youngjin Jeong* and I am a student of Seoul National University of Science and Technology
-My major is computer science and I am a second year student.
+# âœ¨ Self Introduction
 
-Áö±Ý github »ç¿ë¹ýÀ» ¿¬½ÀÁßÀÔ´Ï´Ù.
+## ðŸ‘¤ About Me
+- **Name**: *Youngjin Jeong*  
+- **University**: Seoul National University of Science and Technology  
+- **Major**: Computer Science  
+- **Year**: 2nd Year Student  
+
+## ðŸŒ± Current Status
+I am currently practicing how to use **Git** and **GitHub**.  
+This repository is part of my learning journey.
+
+## ðŸ“Œ Goals
+1. Improve my coding skills  
+2. Contribute to open-source projects  
+3. Build useful applications with my knowledge  
+
+---
+
+> "Learning never exhausts the mind." â€“ *Leonardo da Vinci*
+
