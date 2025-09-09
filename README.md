@@ -4,7 +4,7 @@
 - **Name**: *Youngjin Jeong*  
 - **University**: Seoul National University of Science and Technology  
 - **Major**: Computer Science  
-- **Year**: 2nd Year Student  
+- **Year**: 4th Year Student  
 
 ## 🌱 Current Status
 I am currently practicing how to use **Git** and **GitHub**.  
